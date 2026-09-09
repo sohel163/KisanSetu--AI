@@ -1,0 +1,10 @@
+{
+  "description": "A user-friendly frontend app with minimal colors designed for framers to streamline their workflow and enhance project management efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
